@@ -1,3 +1,14 @@
+# Project: Bad Beats
+
+## Description
+
+Bad Beats was created to be the go-to web application for sports bettors to post their worst sports betting beats and view others as we all struggle to become rich through sports.
+
+The app is going to be created using PostgreSQL for the database, Rails for the backend and React for the frontend.
+
+Final README will be updated once version 1.0 of the project is complete.
+
+
 # Project Template: React/Rails API
 
 ## Description
